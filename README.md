@@ -10,3 +10,6 @@ The code is organized into folders following the methodology sections:
 4) Bot Analysis
 5) Text Analysis
 
+This repository found inspiration and code snippets in:
+- https://github.com/IUNetSci/botometer-python
+- https://github.com/CyberDataLab/botbusters-spanish-general-elections/
